@@ -64,9 +64,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bai1.triangle" />
+      <module name="ngoaile" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bai1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.CalculationExample" />
+        <item itemvalue="Application.triangle" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -79,7 +93,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681182761686</updated>
-      <workItem from="1681182762984" duration="3947000" />
+      <workItem from="1681182762984" duration="6267000" />
     </task>
     <servers />
   </component>

@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f3506509-b7c9-422e-b081-deccc5ec9fa2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bai1sua/IllegalTriangleException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bai1sua/IllegalTriangleException.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,10 +35,11 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CalculationExample">
+  <component name="RunManager" selected="Application.name">
     <configuration name="CalculationExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex3.CalculationExample" />
       <module name="ngoaile" />
@@ -64,6 +66,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="name" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bai1sua.name" />
+      <module name="ngoaile" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bai1sua.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bai1.triangle" />
       <module name="ngoaile" />
@@ -79,6 +94,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.name" />
         <item itemvalue="Application.CalculationExample" />
         <item itemvalue="Application.triangle" />
         <item itemvalue="Application.Main" />
@@ -93,7 +109,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681182761686</updated>
-      <workItem from="1681182762984" duration="6267000" />
+      <workItem from="1681182762984" duration="8334000" />
     </task>
     <servers />
   </component>
